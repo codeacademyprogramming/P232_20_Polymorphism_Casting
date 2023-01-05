@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\20. C#\05012023\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache

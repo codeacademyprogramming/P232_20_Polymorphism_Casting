@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84e2926e-595c-4343-81bb-45e3fa68da73": {
+      "ProjectGuid": "84e2926e-595c-4343-81bb-45e3fa68da73",
+      "DisplayName": "Task1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "215aff6e-b14a-4907-9bea-184440fab9ac": {
+      "ProjectGuid": "215aff6e-b14a-4907-9bea-184440fab9ac",
+      "DisplayName": "Casting",
+      "ColorIndex": 1
+    },
+    "421f14d3-cd3c-4b1e-b56a-fcaebd145ab5": {
+      "ProjectGuid": "421f14d3-cd3c-4b1e-b56a-fcaebd145ab5",
+      "DisplayName": "Polymorphism",
+      "ColorIndex": 2
+    },
+    "b131720b-6cc4-4d98-9107-8167d551b726": {
+      "ProjectGuid": "b131720b-6cc4-4d98-9107-8167d551b726",
+      "DisplayName": "Task2",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
